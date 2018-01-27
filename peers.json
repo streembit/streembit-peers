@@ -1,6 +1,26 @@
 [
-	{
-		"host": "176.31.122.115",
-		"port": 32319
-	}
+  {
+    "host": "176.31.122.115"
+  },
+  {
+    "host": "94.23.193.179"
+  },
+  {
+    "host": "seed.streembit.uk"
+  },
+  {
+    "host": "seed.streembit.eu"
+  },
+  {
+    "host": "seed.streembit.net"
+  },
+  {
+    "host": "seed.streembit.co"
+  },
+  {
+    "host": "seed.streembit.biz"
+  },
+  {
+    "host": "seed.streembit.org"
+  }
 ]
