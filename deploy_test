@@ -1,3 +1,4 @@
 here we go again, and again, and again, and again, and again, and again
 and finally deploy with "git pull" in config
 test -dq (daemon mode + quiet)
+test -d (daemon mode)
