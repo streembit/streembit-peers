@@ -1,9 +1,6 @@
 [
   {
-    "host": "seed1.streembit.net"
-  },
-  {
-    "host": "seed2.streembit.net",
-    "port": 32321
+    "host": "seed1.streembit.net",
+    "port": 32319
   }
 ]
