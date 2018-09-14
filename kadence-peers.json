@@ -1,6 +1,10 @@
 [
   {
-    "host": "seed1.streembit.net",
+    "host": "seed.streembit.net",
+    "port": 32319
+  },
+  {
+    "host": "seedz.streembit.net",
     "port": 32319
   }
 ]
